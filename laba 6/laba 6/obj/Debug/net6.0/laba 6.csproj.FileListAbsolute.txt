@@ -1,0 +1,5 @@
+D:\работы\laba 6\laba 6\obj\Debug\net6.0\laba 6.csproj.AssemblyReference.cache
+D:\работы\laba 6\laba 6\obj\Debug\net6.0\laba 6.GeneratedMSBuildEditorConfig.editorconfig
+D:\работы\laba 6\laba 6\obj\Debug\net6.0\laba 6.AssemblyInfoInputs.cache
+D:\работы\laba 6\laba 6\obj\Debug\net6.0\laba 6.AssemblyInfo.cs
+D:\работы\laba 6\laba 6\obj\Debug\net6.0\laba 6.csproj.CoreCompileInputs.cache
